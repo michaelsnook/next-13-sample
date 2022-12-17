@@ -71,6 +71,7 @@
     --card-rgb: 100, 100, 100;
     --card-border-rgb: 200, 200, 200;
   }
+  a { color: teal; }
 }
 
 * {
@@ -95,7 +96,6 @@ body {
 h1, h2, h3 { line-height: 2rem; margin: 1rem 0; }
 
 a {
-  color: darkblue;
   text-decoration-style: wavy;
 }
 
