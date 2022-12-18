@@ -1,6 +1,6 @@
 'use client'
 
-import '../../styles/globals.css'
+import '../globals.css'
 import { useEffect } from 'react'
 import styles from './breaking.module.css'
 
