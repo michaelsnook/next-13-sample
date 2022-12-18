@@ -1,7 +1,7 @@
 'use client'
 
-import '../globals.css'
 import { useEffect } from 'react'
+import 'styles/globals.css'
 import styles from './breaking.module.css'
 
 export default function Error({ error, reset }) {

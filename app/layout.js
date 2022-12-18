@@ -1,8 +1,8 @@
 import 'server-only'
 
-import SupabaseListener from '../components/supabase-listener'
-import createClient from '../utils/supabase-server'
-import './globals.css'
+import 'styles/globals.css'
+import SupabaseListener from 'components/supabase-listener'
+import createClient from 'utils/supabase-server'
 
 export const revalidate = 0
 

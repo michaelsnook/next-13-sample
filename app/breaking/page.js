@@ -1,6 +1,6 @@
 'use client'
 
-import '../globals.css'
+import 'styles/globals.css'
 import styles from './breaking.module.css'
 
 export default function Page() {

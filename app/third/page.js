@@ -1,5 +1,5 @@
-import '../globals.css'
 import Link from 'next/link'
+import 'styles/globals.css'
 
 async function getData() {
   const index = Math.floor(Math.random() * 10)
